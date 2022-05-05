@@ -2,7 +2,8 @@ Ray Train - библиотека, позволяющая упросить рас
 
 Она использовалась во время обучения 2 моделей (tensorflow):
 
-1)
+1) https://github.com/Mikhail11235/LeNet-5
+
 <img width="476" alt="Снимок экрана 2022-05-05 в 14 10 40" src="https://user-images.githubusercontent.com/59762084/166914525-c303be33-a7c6-4f02-9ced-0b869940c45d.png">
 
 2)
